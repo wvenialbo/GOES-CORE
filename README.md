@@ -1,6 +1,6 @@
 # GOES-CORE — GOES Satellite Dataset Access Core Functionality
 
-**NOTE: This project was merged into the GOES-DL project.**
+**NOTE: This project was merged into the [GOES-DL][25] project.**
 
 *Since 1975, Geostationary Operational Environmental Satellites (GOES) have
 provided continuous imagery and data on atmospheric conditions and solar
